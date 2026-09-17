@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+.env
+.env.*
+!.env.example
+secrets
+secrets.*
+*.pem
+*.key
+*.cookie
+cookie.txt
+bookflow_cookie.txt
